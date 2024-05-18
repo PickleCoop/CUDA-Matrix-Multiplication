@@ -6,5 +6,5 @@ The program will create randomly filled matrices A and B of size N x N, and comp
 
 ## Contact
 
-Author: Evan Cooper
+Author: Evan Cooper  
 GitHub: PickleCoop
